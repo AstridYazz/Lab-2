@@ -21,7 +21,20 @@
 
 ### Paso#7 Seguimos los pasos de instalación 
 ### 1. ![](https://github.com/AstridYazz/Lab-2/blob/main/Paso7.jpg) 
-### 2. ![](
-### 3. ![](
-### 4. ![](
+### 2. ![](https://github.com/AstridYazz/Lab-2/blob/main/Paso7%20(2).jpg)
+### 3. ![](https://github.com/AstridYazz/Lab-2/blob/main/Paso%207(3).jpg) 
+### 4. ![](https://github.com/AstridYazz/Lab-2/blob/main/Paso7%20(4).jpg)
+### 5. ![](https://github.com/AstridYazz/Lab-2/blob/main/Paso7%20(5).jpg)
+
+### Paso#8 Se ingresa al escritorio y se selecciona el sistema instalado llamado "Neo4j Desktop"
+![](https://github.com/AstridYazz/Lab-2/blob/main/Paso8.jpg)
+
+### Paso#9 Al entrar nos solicita que nos registremos con la información de contacto o colocar la clave de activación
+![](https://github.com/AstridYazz/Lab-2/blob/main/Paso9.jpg)
+
+### Paso#10 La clave la podemos conseguir del mismo lugar del cual lo instalamos
+![](https://github.com/AstridYazz/Lab-2/blob/main/Paso10.jpg) 
+
+### Paso#11 Luego lo pegamos y seleccionamos el botón "Activate"
+![](https://github.com/AstridYazz/Lab-2/blob/main/Paso11.jpg)
 
