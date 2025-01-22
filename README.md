@@ -11,5 +11,17 @@
 ![](https://github.com/AstridYazz/Lab-2/blob/main/Paso3.jpg)
 
 ### Paso#4 Al finalizar presionamos el botón "Dowload Desktop" 
-![](
+![](https://github.com/AstridYazz/Lab-2/blob/main/Paso4.jpg) 
+
+### Paso#5 Presiona doble clic sobre el archivo descargado 
+![](https://github.com/AstridYazz/Lab-2/blob/main/Paso5.jpg) 
+
+### Paso#6 Se ejecuta en la máquina para proceder a su instalación 
+![](https://github.com/AstridYazz/Lab-2/blob/main/Paso6.jpg)
+
+### Paso#7 Seguimos los pasos de instalación 
+### 1. ![](https://github.com/AstridYazz/Lab-2/blob/main/Paso7.jpg) 
+### 2. ![](
+### 3. ![](
+### 4. ![](
 
